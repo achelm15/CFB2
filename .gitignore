@@ -1,0 +1,13 @@
+ml/models
+ml/my_dir
+ml/scikit
+ml/coreml_models
+ml/.ipynb_checkpoints
+ml/__pycache__
+dataset/.ipynb_checkpoints
+dataset/initial_dataset
+dataset/modified_dataset
+dataset/output2022
+*csv
+*.DS_Store
+secret.py
